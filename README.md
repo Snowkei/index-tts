@@ -212,6 +212,8 @@ python webui.py
 
 # use another model version:
 python webui.py --model_dir IndexTTS-1.5
+
+python webui.py --model_dir checkpoints-1.5
 ```
 
 Open your browser and visit `http://127.0.0.1:7860` to see the demo.

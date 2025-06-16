@@ -8,6 +8,10 @@ checkpoints/*.pth
 checkpoints/*.vocab
 checkpoints/*.model
 checkpoints/.cache
+checkpoints-1.5/*.pth
+checkpoints-1.5/*.vocab
+checkpoints-1.5/*.model
+checkpoints-1.5/.cache
 outputs/
 build/
 *.py[cod]
